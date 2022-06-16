@@ -15,7 +15,7 @@ function arIeskomasSkaiciusYraMasyve(arry,x,y) {
         if (arry[i] === y) {
             sk2 = true
             }
-        if (sk && sk2 === true) {
+        if (sk && sk2) {
             return true
             }
         
